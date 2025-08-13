@@ -2,11 +2,13 @@ numpy
 pandas
 scikit-learn
 matplotlib
+seaborn
+scipy
 imbalanced-learn
 xgboost
 lightgbm
-shap
 joblib
 python-dotenv
 jupyter
 pyyaml
+shap
